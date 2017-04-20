@@ -1,0 +1,10 @@
+User-agent: Mediapartners-Google
+Disallow: /system/ 
+User-agent: *
+Disallow: /system/
+Disallow: /application/config/
+Disallow: /application/core/
+Disallow: /application/libraries/
+Disallow: /application/third_party/ 
+
+#Sitemap http://zeoarts.com/sitemap.xml

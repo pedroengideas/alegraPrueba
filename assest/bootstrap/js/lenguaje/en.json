@@ -1,0 +1,9 @@
+{
+	"token": {
+		"menu1":"REELICKET",
+	},
+    // Define regular expression replacements here
+    "regex": [
+        ["My regex", "i", "someReplacement"]
+    ]
+}
